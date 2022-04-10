@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border: 1px solid black;
+    font-size: 18px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+tr:first-child {
+    background-color: darkorange;
+}
+
+td:first-child {
+    background-color: lightblue;
+}
